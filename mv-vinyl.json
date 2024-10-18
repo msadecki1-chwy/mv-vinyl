@@ -1,66 +1,59 @@
 {
-	"collection": [
+	"record": [
 		{
-			"record": [
-				{
-					"artist": "Santana",
-					"album": "Abraxas",
-					"year": "1970"
-				},
-				{
-					"artist": "Traffic",
-					"album": "Traffic",
-					"year": "1968"
-				},
-				{
-					"artist": "Nina Simone",
-					"album": "Nina Simone Sings The Blues",
-					"year": "1967"
-				},
-				{
-					"artist": "Charles Mingus",
-					"album": "Mingus Mingus Mingus Mingus",
-					"year": "1964"
-				},
-				{
-					"artist": "Miles Davis",
-					"album": "Fearless Live at the Fillmore East",
-					"year": "1970"
-				},
-				{
-					"artist": "Frank Zappa",
-					"album": "Hot Rats ",
-					"year": "1969"
-				},
-				{
-					"artist": "Kjellvandertonbruket",
-					"album": "Doom Country",
-					"year": "2019"
-				},
-				{
-					"artist": "Grateful Dead",
-					"album": "Grateful Dead (Skull & Roses)",
-					"year": "1971"
-				},
-				{
-					"artist": "Willie Watson",
-					"album": "Folksinger Vol. 2",
-					"year": "2017"
-				},
-				{
-					"artist": "Charlie Parr",
-					"album": "Little Sun",
-					"year": "2024"
-				},
-				{
-					"artist": "Some & JD",
-					"album": "Not Tight",
-					"year": "2022"
-				}
-			],
-			"artist": "artist",
-			"album": "album",
-			"year": "year"
+			"artist": "Santana",
+			"album": "Abraxas",
+			"year": "1970"
+		},
+		{
+			"artist": "Traffic",
+			"album": "Traffic",
+			"year": "1968"
+		},
+		{
+			"artist": "Nina Simone",
+			"album": "Nina Simone Sings The Blues",
+			"year": "1967"
+		},
+		{
+			"artist": "Charles Mingus",
+			"album": "Mingus Mingus Mingus Mingus",
+			"year": "1964"
+		},
+		{
+			"artist": "Miles Davis",
+			"album": "Fearless Live at the Fillmore East",
+			"year": "1970"
+		},
+		{
+			"artist": "Frank Zappa",
+			"album": "Hot Rats ",
+			"year": "1969"
+		},
+		{
+			"artist": "Kjellvandertonbruket",
+			"album": "Doom Country",
+			"year": "2019"
+		},
+		{
+			"artist": "Grateful Dead",
+			"album": "Grateful Dead (Skull & Roses)",
+			"year": "1971"
+		},
+		{
+			"artist": "Willie Watson",
+			"album": "Folksinger Vol. 2",
+			"year": "2017"
+		},
+		{
+			"artist": "Charlie Parr",
+			"album": "Little Sun",
+			"year": "2024"
+		},
+		{
+			"artist": "Some & JD",
+			"album": "Not Tight",
+			"year": "2022"
 		}
 	]
 }
