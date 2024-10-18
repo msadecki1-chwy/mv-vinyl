@@ -34,8 +34,10 @@
 				},
 				{
 					"artist": "Kjellvandertonbruket",
-					"album": "Doom Country"
-				}
+					"album": "Doom Country",
+					"year": "2019"
+				},
+				{}
 			]
 		}
 	]
