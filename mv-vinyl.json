@@ -14,7 +14,11 @@
 	"collection": [
 		{
 			"record": [
-				{}
+				{
+					"artist": "Santana",
+					"album": "Abraxas",
+					"year": "1970"
+				}
 			]
 		}
 	]
