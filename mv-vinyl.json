@@ -57,7 +57,10 @@
 					"album": "Not Tight",
 					"year": "2022"
 				}
-			]
+			],
+			"artist": "artist",
+			"album": "album",
+			"year": "year"
 		}
 	]
 }
