@@ -37,7 +37,9 @@
 					"album": "Doom Country",
 					"year": "2019"
 				},
-				{}
+				{
+					"artist": "Grateful Dead"
+				}
 			]
 		}
 	]
