@@ -7,7 +7,11 @@
 					"album": "Abraxas",
 					"year": "1970"
 				},
-				{}
+				{
+					"artist": "Traffic",
+					"album": "Traffic",
+					"year": "1968"
+				}
 			]
 		}
 	]
