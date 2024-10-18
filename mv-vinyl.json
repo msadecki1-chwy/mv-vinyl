@@ -47,7 +47,10 @@
 					"album": "Folksinger Vol. 2",
 					"year": "2017"
 				},
-				{}
+				{
+					"artist": "Charlie Parr",
+					"album": "Little Sun"
+				}
 			]
 		}
 	]
