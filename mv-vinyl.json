@@ -11,6 +11,11 @@
 			"year": "1958"
 		},
 		{
+			"album": "At the Pershing",
+			"artist": "Ahmad Jamal",
+			"year": "1958"
+		},
+		{
 			"album": "Somethin' Else",
 			"artist": "Julian Cannonball Adderley",
 			"year": "1958"
@@ -200,11 +205,6 @@
 			"album": "Blossom Dearie",
 			"artist": "Blossom Dearie",
 			"year": "1957"
-		},
-		{
-			"album": "At the Pershing",
-			"artist": "Ahmad Jamal",
-			"year": "1958"
 		}
 	]
 }
