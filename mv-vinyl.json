@@ -20,7 +20,9 @@
 			"artist": "The Platters",
 			"year": "1960"
 		},
-		{},
+		{
+			"album": "The Final Tour"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
