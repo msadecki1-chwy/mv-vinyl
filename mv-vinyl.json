@@ -5,7 +5,10 @@
 			"artist": "Serge Gainsbourg",
 			"year": "1958"
 		},
-		{},
+		{
+			"album": "Time Out",
+			"artist": "The Dave Brubeck Quartet"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
