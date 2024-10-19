@@ -179,7 +179,9 @@
 			"artist": "Rolling Stones",
 			"year": "1969"
 		},
-		{},
+		{
+			"album": "Grateful Dead"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
