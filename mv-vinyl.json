@@ -50,7 +50,11 @@
 			"album": "Mingus Mingus Mingus Mingus",
 			"year": "1964"
 		},
-		{},
+		{
+			"album": "12 X 5",
+			"artist": "The Rolling Stones",
+			"year": "1964"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
