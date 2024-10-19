@@ -1,7 +1,9 @@
 {
 	"record": [
 		{
-			"album": "Du Jazz dans le ravin"
+			"album": "Du Jazz dans le ravin",
+			"artist": "Serge Gainsbourg",
+			"year": "1958"
 		},
 		{
 			"artist": "Santana",
