@@ -12,8 +12,10 @@
 		},
 		{
 			"album": "in San Francisco Live at the Jazz Workshop",
-			"artist": "The Cannonball Adderley Quintet featuring Nate adderley"
+			"artist": "The Cannonball Adderley Quintet featuring Nat Adderley",
+			"year": "1959"
 		},
+		{},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
