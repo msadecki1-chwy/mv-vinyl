@@ -7,8 +7,10 @@
 		},
 		{
 			"album": "Time Out",
-			"artist": "The Dave Brubeck Quartet"
+			"artist": "The Dave Brubeck Quartet",
+			"year": "1959"
 		},
+		{},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
