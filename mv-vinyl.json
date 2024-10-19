@@ -63,7 +63,9 @@
 		},
 		{
 			"album": "At the Pershing",
-			"artist": "Ahmad Jamal"
-		}
+			"artist": "Ahmad Jamal",
+			"year": "1958"
+		},
+		{}
 	]
 }
