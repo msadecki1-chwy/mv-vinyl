@@ -70,7 +70,11 @@
 			"artist": "Percy Sledge",
 			"year": "1966"
 		},
-		{},
+		{
+			"album": "Four & More Recorded Live in Concert",
+			"artist": "Miles Davis",
+			"year": "1966"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
