@@ -104,12 +104,17 @@
 			"album": "Sorcerer",
 			"artist": "Miles Davis 1967"
 		},
-		{},
 		{
 			"artist": "Nina Simone",
 			"album": "Nina Simone Sings The Blues",
 			"year": "1967"
 		},
+		{
+			"album": "For the Sake of the Song",
+			"artist": "Townes Van Zandt",
+			"year": "1968"
+		},
+		{},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
