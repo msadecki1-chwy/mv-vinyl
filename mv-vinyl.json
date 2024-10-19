@@ -275,7 +275,9 @@
 			"artist": "The Faces",
 			"year": "1970"
 		},
-		{},
+		{
+			"album": "His Band "
+		},
 		{
 			"artist": "Miles Davis",
 			"album": "Fearless Live at the Fillmore East",
