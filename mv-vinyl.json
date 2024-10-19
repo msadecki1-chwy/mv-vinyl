@@ -166,8 +166,10 @@
 		},
 		{
 			"album": "Everybody Knows this is Nowhere",
-			"artist": "Neil Young with Crazy Horse"
+			"artist": "Neil Young with Crazy Horse",
+			"year": "1969"
 		},
+		{},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
