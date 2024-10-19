@@ -15,7 +15,10 @@
 			"artist": "The Cannonball Adderley Quintet featuring Nat Adderley",
 			"year": "1959"
 		},
-		{},
+		{
+			"album": "Encore of Golden Hits",
+			"artist": "The Platters"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
