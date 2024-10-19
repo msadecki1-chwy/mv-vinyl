@@ -1,6 +1,8 @@
 {
 	"record": [
-		{},
+		{
+			"album": "Du Jazz dans le ravin"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
