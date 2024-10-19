@@ -246,8 +246,11 @@
 			"art": "https://fastly-s3.allmusic.com/release/mr0001285277/front/400/k1AWoTkI2tNZRW6e47DyZ5hUoDg0hsvx4F4sL4oO-nA=.jpg"
 		},
 		{
-			"album": "Carnegie Hall"
+			"album": "Carnegie Hall",
+			"artist": "Neil Young",
+			"year": "1970"
 		},
+		{},
 		{
 			"artist": "Miles Davis",
 			"album": "Fearless Live at the Fillmore East",
