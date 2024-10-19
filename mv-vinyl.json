@@ -10,7 +10,9 @@
 			"artist": "The Dave Brubeck Quartet",
 			"year": "1959"
 		},
-		{},
+		{
+			"album": "in San Francisco"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
