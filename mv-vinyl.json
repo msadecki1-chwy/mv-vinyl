@@ -1,6 +1,11 @@
 {
 	"record": [
 		{
+			"album": "Blossom Dearie",
+			"artist": "Blossom Dearie",
+			"year": "1957"
+		},
+		{
 			"album": "Du Jazz dans le ravin",
 			"artist": "Serge Gainsbourg",
 			"year": "1958"
@@ -200,11 +205,6 @@
 			"artist": "Dome & JD",
 			"album": "Not Tight",
 			"year": "2022"
-		},
-		{
-			"album": "Blossom Dearie",
-			"artist": "Blossom Dearie",
-			"year": "1957"
 		}
 	]
 }
