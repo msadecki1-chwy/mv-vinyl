@@ -234,7 +234,10 @@
 			"artist": "Grateful Dead",
 			"year": "1970"
 		},
-		{},
+		{
+			"album": "Live!",
+			"artist": "Fela Ransome-Kuti and The AFRICA '70"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
