@@ -186,7 +186,12 @@
 		},
 		{
 			"album": "De Ole Folks at Home",
-			"artist": "Taj Majal"
+			"artist": "Taj Majal",
+			"year": "1969"
+		},
+		{
+			"album": "Giant Step",
+			"artist": "Taj Mahal"
 		},
 		{
 			"artist": "Santana",
