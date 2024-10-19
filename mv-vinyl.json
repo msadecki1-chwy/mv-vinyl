@@ -174,7 +174,10 @@
 			"artist": "Jimi Hendrix",
 			"year": "1969"
 		},
-		{},
+		{
+			"album": "Let it Bleed",
+			"artist": "Rolling Stones"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
