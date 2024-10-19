@@ -176,8 +176,10 @@
 		},
 		{
 			"album": "Let it Bleed",
-			"artist": "Rolling Stones"
+			"artist": "Rolling Stones",
+			"year": "1969"
 		},
+		{},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
