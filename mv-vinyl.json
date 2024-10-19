@@ -71,9 +71,11 @@
 			"artist": "Cannonball Adderley with Milt Jackson",
 			"year": "1958"
 		},
+		{},
 		{
 			"album": "Somethin' Else",
-			"artist": "Julian Cannonball Adderley"
+			"artist": "Julian Cannonball Adderley",
+			"year": "1958"
 		}
 	]
 }
