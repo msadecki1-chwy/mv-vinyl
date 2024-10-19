@@ -17,8 +17,10 @@
 		},
 		{
 			"album": "Encore of Golden Hits",
-			"artist": "The Platters"
+			"artist": "The Platters",
+			"year": "1960"
 		},
+		{},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
