@@ -124,7 +124,11 @@
 			"album": "Traffic",
 			"year": "1968"
 		},
-		{},
+		{
+			"album": "Oriental Jazz",
+			"artist": "Lloyd Miller",
+			"year": "1968"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
