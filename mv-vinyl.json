@@ -95,7 +95,11 @@
 			"artist": "Aretha Franklin",
 			"year": "1967"
 		},
-		{},
+		{
+			"album": "Sgt. Peppers Lonely Hearts Club Band",
+			"artist": "The Beatles",
+			"year": "1967"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
