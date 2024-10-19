@@ -164,7 +164,10 @@
 			"artist": "Aretha Franklin",
 			"year": "1968"
 		},
-		{},
+		{
+			"album": "Everybody Knows this is Nowhere",
+			"artist": "Neil Young with Crazy Horse"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
