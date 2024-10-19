@@ -45,6 +45,11 @@
 			"artist": "The Beatles",
 			"year": "1963"
 		},
+		{
+			"artist": "Charles Mingus",
+			"album": "Mingus Mingus Mingus Mingus",
+			"year": "1964"
+		},
 		{},
 		{
 			"artist": "Santana",
@@ -61,11 +66,6 @@
 			"artist": "Nina Simone",
 			"album": "Nina Simone Sings The Blues",
 			"year": "1967"
-		},
-		{
-			"artist": "Charles Mingus",
-			"album": "Mingus Mingus Mingus Mingus",
-			"year": "1964"
 		},
 		{
 			"artist": "Miles Davis",
