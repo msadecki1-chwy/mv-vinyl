@@ -6,6 +6,11 @@
 			"year": "1958"
 		},
 		{
+			"album": "Things are Getting Better",
+			"artist": "Cannonball Adderley with Milt Jackson",
+			"year": "1958"
+		},
+		{
 			"album": "Time Out",
 			"artist": "The Dave Brubeck Quartet",
 			"year": "1959"
@@ -199,11 +204,6 @@
 		{
 			"album": "Somethin' Else",
 			"artist": "Julian Cannonball Adderley",
-			"year": "1958"
-		},
-		{
-			"album": "Things are Getting Better",
-			"artist": "Cannonball Adderley with Milt Jackson",
 			"year": "1958"
 		}
 	]
