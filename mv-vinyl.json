@@ -184,7 +184,10 @@
 			"artist": "Grateful Dead",
 			"year": "1969"
 		},
-		{},
+		{
+			"album": "De Ole Folks at Home",
+			"artist": "Taj Majal"
+		},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
