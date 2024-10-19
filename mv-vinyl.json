@@ -180,8 +180,11 @@
 			"year": "1969"
 		},
 		{
-			"album": "Grateful Dead"
+			"album": "Aoxomoxoa",
+			"artist": "Grateful Dead",
+			"year": "1969"
 		},
+		{},
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
