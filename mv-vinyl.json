@@ -415,7 +415,9 @@
 			"artist": "Nat Turner Rebellion",
 			"year": "1972"
 		},
-		{},
+		{
+			"album": "Ziggy Stardues"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
