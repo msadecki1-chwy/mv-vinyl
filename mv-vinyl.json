@@ -385,7 +385,9 @@
 			"artist": "Randy Newman",
 			"year": "1972"
 		},
-		{},
+		{
+			"album": "Honky Chateau"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
