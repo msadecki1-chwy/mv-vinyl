@@ -271,6 +271,11 @@
 			"year": "1970"
 		},
 		{
+			"artist": "Miles Davis",
+			"album": "Fearless Live at the Fillmore East",
+			"year": "1970"
+		},
+		{
 			"album": "McLemore Avenue",
 			"artist": "Booker T. & the M.G.s",
 			"year": "1970"
@@ -291,11 +296,6 @@
 			"year": "1970"
 		},
 		{},
-		{
-			"artist": "Miles Davis",
-			"album": "Fearless Live at the Fillmore East",
-			"year": "1970"
-		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
