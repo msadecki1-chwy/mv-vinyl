@@ -625,7 +625,14 @@
 			"artist": "The Beatles",
 			"year": "1975"
 		},
-		{},
+		{
+			"album": "Old & In The Way",
+			"artist": "Old & In The Way",
+			"year": "1975"
+		},
+		{
+			"album": "John DenverWind"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
