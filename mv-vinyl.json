@@ -631,8 +631,11 @@
 			"year": "1975"
 		},
 		{
-			"album": "John DenverWind"
+			"album": "Windsong",
+			"artist": "Johnn Denver",
+			"year": "1975"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
