@@ -655,7 +655,9 @@
 			"artist": "Jonathan Richman & The Modern Lovers",
 			"year": "1976"
 		},
-		{},
+		{
+			"album": "Songs from the Astral Plane"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
