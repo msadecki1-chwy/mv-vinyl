@@ -552,8 +552,10 @@
 		},
 		{
 			"album": "Apostrophe'",
-			"artist": "Frank Zappa"
+			"artist": "Frank Zappa",
+			"year": "1974"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
