@@ -685,7 +685,9 @@
 			"artist": "Experience Unlimited",
 			"year": "1976"
 		},
-		{},
+		{
+			"album": "For"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
