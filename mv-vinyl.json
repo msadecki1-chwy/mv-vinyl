@@ -307,8 +307,10 @@
 		},
 		{
 			"album": "The Silver Tongued Devil and I",
-			"artist": "Kris Kristofferson"
+			"artist": "Kris Kristofferson",
+			"year": "1971"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
