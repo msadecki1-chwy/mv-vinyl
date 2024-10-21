@@ -405,7 +405,9 @@
 			"artist": "Miles Davis",
 			"year": "1972"
 		},
-		{},
+		{
+			"album": "Might as Well"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
