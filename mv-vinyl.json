@@ -535,7 +535,9 @@
 			"artist": "Barbara Streisand",
 			"year": "1974"
 		},
-		{},
+		{
+			"artist": "Blood on the Tracks"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
