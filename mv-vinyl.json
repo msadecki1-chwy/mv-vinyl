@@ -536,8 +536,11 @@
 			"year": "1974"
 		},
 		{
-			"artist": "Blood on the Tracks"
+			"album": "Blood on the Tracks",
+			"artist": "Bob Dylan",
+			"year": "1974"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
