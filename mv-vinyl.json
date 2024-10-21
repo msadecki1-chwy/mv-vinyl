@@ -321,6 +321,11 @@
 			"year": "1971"
 		},
 		{
+			"artist": "Grateful Dead",
+			"album": "Grateful Dead (Skull & Roses)",
+			"year": "1971"
+		},
+		{
 			"album": "Champions (from the Complete Jack Johnson Sessions)",
 			"artist": "Miles Davis",
 			"year": "1971"
@@ -550,11 +555,6 @@
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
 			"year": "2019"
-		},
-		{
-			"artist": "Grateful Dead",
-			"album": "Grateful Dead (Skull & Roses)",
-			"year": "1971"
 		},
 		{
 			"artist": "Willie Watson",
