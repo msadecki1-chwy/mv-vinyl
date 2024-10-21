@@ -297,8 +297,10 @@
 		},
 		{
 			"album": "A Nod is as Good as a Wink to a Blind Horse",
-			"artist": "Faces"
+			"artist": "Faces",
+			"year": "1971"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
