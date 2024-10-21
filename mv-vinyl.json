@@ -460,7 +460,9 @@
 			"artist": "Miles Davis",
 			"year": "1973"
 		},
-		{},
+		{
+			"album": "A Little Touch of Schmilsson in the Night"
+		},
 		{},
 		{
 			"artist": "Kjellvandertonbruket",
