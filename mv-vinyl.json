@@ -430,7 +430,9 @@
 			"artist": "Yes",
 			"year": "1973"
 		},
-		{},
+		{
+			"album": "Abandones Luncheonette"
+		},
 		{},
 		{
 			"artist": "Kjellvandertonbruket",
