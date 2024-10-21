@@ -432,8 +432,15 @@
 		},
 		{
 			"album": "Abandoned Luncheonette",
-			"artist": "Daryl Hall & John Oates"
+			"artist": "Daryl Hall & John Oates",
+			"year": "1973"
 		},
+		{
+			"album": "Mind Games",
+			"artist": "John Lennon",
+			"year": "1973"
+		},
+		{},
 		{},
 		{
 			"artist": "Kjellvandertonbruket",
