@@ -195,6 +195,11 @@
 			"year": "1969"
 		},
 		{
+			"artist": "Frank Zappa",
+			"album": "Hot Rats",
+			"year": "1969"
+		},
+		{
 			"album": "The Memphis Record",
 			"artist": "Elvis Presley",
 			"year": "1969"
@@ -290,11 +295,6 @@
 			"artist": "Miles Davis",
 			"album": "Fearless Live at the Fillmore East",
 			"year": "1970"
-		},
-		{
-			"artist": "Frank Zappa",
-			"album": "Hot Rats",
-			"year": "1969"
 		},
 		{
 			"artist": "Kjellvandertonbruket",
