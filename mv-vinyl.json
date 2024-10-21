@@ -295,7 +295,10 @@
 			"artist": "Willie Dixon",
 			"year": "1970"
 		},
-		{},
+		{
+			"album": "A Nod is as Good as a Wink to a Blind Horse",
+			"artist": "Faces"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
