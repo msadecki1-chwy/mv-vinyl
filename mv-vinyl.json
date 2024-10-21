@@ -610,7 +610,11 @@
 			"artist": "ZZ Top",
 			"year": "1975"
 		},
-		{},
+		{
+			"album": "The Basement Tapes",
+			"artist": "Bob Dylan and The Band",
+			"year": "1975"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
