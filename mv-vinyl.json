@@ -326,8 +326,11 @@
 			"year": "1971"
 		},
 		{
-			"album": "Ndikho Xaba and the Natives"
+			"album": "Ndikho Xaba and the Natives",
+			"artist": "Ndikho Xaba and the Natives",
+			"year": "1971"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
