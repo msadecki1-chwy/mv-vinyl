@@ -4,84 +4,82 @@
 			"album": "Blossom Dearie",
 			"artist": "Blossom Dearie",
 			"year": "1957",
-			"art": "https://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-250.jpg"
+			"mbid": "12d9211c-8e4e-46e1-b84f-bdf330707256"
 		},
 		{
 			"album": "Du Jazz dans le ravin",
 			"artist": "Serge Gainsbourg",
-			"year": "1958",
-			"art": "https://i.discogs.com/RYQlLNgOxrM4Vh6Q7KdsFtGXXRuIxNnZAP1VwZRcOuk/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzE4/MDUtMTQxMjExODQ4/NS04ODQ1LmpwZWc.jpeg"
+			"year": "1958"
 		},
 		{
 			"album": "Things are Getting Better",
 			"artist": "Cannonball Adderley with Milt Jackson",
-			"year": "1958",
-			"art": "https://ia802907.us.archive.org/33/items/mbid-f100e4a3-8864-4187-b291-134137941345/mbid-f100e4a3-8864-4187-b291-134137941345-15838715897.jpg"
+			"year": "1958"
 		},
 		{
 			"album": "At the Pershing",
 			"artist": "Ahmad Jamal",
 			"year": "1958",
-			"art": "https://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-250.jpg"
+			"mbid": "5160292d-d90f-4aa2-a6c7-65c477925c19"
 		},
 		{
 			"album": "Somethin' Else",
 			"artist": "Julian Cannonball Adderley",
 			"year": "1958",
-			"art": "https://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-250.jpg"
+			"mbid": "12c3ef02-0b5d-3350-968c-0af67a329ae0"
 		},
 		{
 			"album": "Time Out",
 			"artist": "The Dave Brubeck Quartet",
 			"year": "1959",
-			"art": "https://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg"
+			"mbid": "411a7bd1-86ad-3c63-84be-b7cab350d9b8"
 		},
 		{
 			"album": "in San Francisco Live at the Jazz Workshop",
 			"artist": "The Cannonball Adderley Quintet featuring Nat Adderley",
 			"year": "1959",
-			"art": "https://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-250.jpg"
+			"mbid": "5ba46ef5-af26-48d0-a07b-6ea438425412"
 		},
 		{
 			"album": "Encore of Golden Hits",
 			"artist": "The Platters",
 			"year": "1960",
-			"art": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-250.jpg"
+			"mbid": "4add6f2e-10ee-4dbb-8ebc-36b41667e954"
 		},
 		{
 			"album": "The Final Tour Live in Copenhagen",
 			"artist": "Miles Davis & Joh Coltrane",
 			"year": "1960",
-			"art": "https://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-250.jpg"
+			"mbid": "78d472d6-322d-4e50-a88c-617946e28d37"
 		},
 		{
 			"album": "Green Onions",
 			"artist": "Booke T. & The M.G.s",
-			"year": "1962",
-			"art": "https://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg"
+			"year": "1962"
 		},
 		{
 			"album": "Rare",
 			"artist": "John Coltrane Quartet",
-			"year": "1962"
+			"year": "1962",
+			"mbid": "73780432-8e48-4e62-acec-53c26798c730"
 		},
 		{
 			"album": "Jazz Workshop Revisited",
 			"artist": "Cannonball Adderley Sextet",
 			"year": "1962",
-			"art": "https://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-250.jpg"
+			"mbid": "a698a3ed-5244-4367-81aa-3a891388b4f0"
 		},
 		{
 			"album": "With the Beatles (Beatlmania!)",
 			"artist": "The Beatles",
 			"year": "1963",
-			"art": "https://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-250.jpg"
+			"mbid": "9a8df718-b441-37d5-b14e-060ef5052211"
 		},
 		{
 			"artist": "Charles Mingus",
 			"album": "Mingus Mingus Mingus Mingus",
 			"year": "1964",
-			"art": "https://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-250.jpg"
+			"mbid": "70d13ec1-e731-3775-b70f-c1a2fb416828"
 		},
 		{
 			"album": "12 X 5",
@@ -260,8 +258,7 @@
 		{
 			"artist": "Santana",
 			"album": "Abraxas",
-			"year": "1970",
-			"art": "https://fastly-s3.allmusic.com/release/mr0001285277/front/400/k1AWoTkI2tNZRW6e47DyZ5hUoDg0hsvx4F4sL4oO-nA=.jpg"
+			"year": "1970"
 		},
 		{
 			"album": "Carnegie Hall",
