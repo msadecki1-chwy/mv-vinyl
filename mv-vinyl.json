@@ -1398,8 +1398,15 @@
 		},
 		{
 			"album": "The Philadelphia Experiment",
-			"artist": "Uri Caine, Christian McBride, Ahmir Thompson DJ Logic"
+			"artist": "Uri Caine, Christian McBride, Ahmir Thompson DJ Logic",
+			"year": "2017"
 		},
+		{
+			"album": "Pure Comedy",
+			"artist": "Father John Misty",
+			"year": "2017"
+		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
