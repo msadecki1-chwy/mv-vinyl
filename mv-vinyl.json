@@ -786,7 +786,11 @@
 			"artist": "Supertramp",
 			"year": "1979"
 		},
-		{},
+		{
+			"album": "Bad Girls",
+			"artist": "Donna Summer",
+			"year": "1979"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
