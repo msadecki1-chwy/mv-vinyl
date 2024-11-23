@@ -1118,8 +1118,10 @@
 		},
 		{
 			"album": "Evil Urges",
-			"artist": "My Morning Jacket"
+			"artist": "My Morning Jacket",
+			"year": "2008"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
