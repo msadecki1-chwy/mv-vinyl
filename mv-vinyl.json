@@ -1068,8 +1068,10 @@
 		},
 		{
 			"album": "Return to Cookie Mountain",
-			"artist": "TV On The Radio"
+			"artist": "TV On The Radio",
+			"year": "2006"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
