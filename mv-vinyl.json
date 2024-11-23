@@ -1016,7 +1016,10 @@
 			"artist": "The Flaming Lips",
 			"year": "1999"
 		},
-		{},
+		{
+			"album": "White Blood Cells",
+			"artist": "The White Stripes"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
