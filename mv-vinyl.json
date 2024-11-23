@@ -1071,7 +1071,10 @@
 			"artist": "TV On The Radio",
 			"year": "2006"
 		},
-		{},
+		{
+			"album": "Everything All The Time",
+			"artist": "Band of Horses"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
