@@ -1236,7 +1236,9 @@
 			"artist": "Taylor Swift",
 			"year": "2014"
 		},
-		{},
+		{
+			"album": "The Daptone Super Soul Revue Live at the Apollo"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
