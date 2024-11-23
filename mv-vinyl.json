@@ -996,7 +996,10 @@
 			"artist": "The Flaming Lips",
 			"year": "1997"
 		},
-		{},
+		{
+			"album": "In The Aeroplane over the Sea",
+			"artist": "Neutral Milk Hotel"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
