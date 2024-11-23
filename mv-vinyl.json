@@ -929,8 +929,10 @@
 		},
 		{
 			"album": "Heart Shaped World",
-			"artist": "Chris Isaak"
+			"artist": "Chris Isaak",
+			"year": "1989"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
