@@ -882,7 +882,10 @@
 			"artist": "Neil Young and the Shocking Pinks",
 			"year": "1983"
 		},
-		{},
+		{
+			"album": "Like a Virgin",
+			"artist": "Madonna"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
