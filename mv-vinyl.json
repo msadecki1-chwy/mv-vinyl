@@ -766,7 +766,10 @@
 			"artist": "Fleetwood Mac",
 			"year": "1978"
 		},
-		{},
+		{
+			"album": "Corea/Hancock",
+			"artist": "Chick Corea Herbie Hancock"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
