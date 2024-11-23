@@ -947,7 +947,9 @@
 			"artist": "The Pixies",
 			"year": "1989"
 		},
-		{},
+		{
+			"album": "Ween at the Cat's Cradle"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
