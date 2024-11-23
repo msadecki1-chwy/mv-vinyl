@@ -1073,8 +1073,10 @@
 		},
 		{
 			"album": "Everything All The Time",
-			"artist": "Band of Horses"
+			"artist": "Band of Horses",
+			"year": "2006"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
