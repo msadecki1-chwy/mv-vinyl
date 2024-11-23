@@ -472,7 +472,11 @@
 			"artist": "Yes",
 			"year": "1973"
 		},
-		{},
+		{
+			"album": "The Best of B.B. King",
+			"artist": "B.B. King",
+			"year": "1973"
+		},
 		{
 			"album": "Abandoned Luncheonette",
 			"artist": "Daryl Hall & John Oates",
