@@ -1307,8 +1307,11 @@
 			"year": "2015"
 		},
 		{
-			"album": "b'lieve i'm goin (deep) down"
+			"album": "b'lieve i'm goin (deep) down...",
+			"artist": "Kurt Vile",
+			"year": "2015"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
