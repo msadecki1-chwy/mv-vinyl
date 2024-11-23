@@ -1031,7 +1031,9 @@
 			"artist": "The Black Keys",
 			"year": "2002"
 		},
-		{},
+		{
+			"album": "Peach Picks Cream of the Crop 2003"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
