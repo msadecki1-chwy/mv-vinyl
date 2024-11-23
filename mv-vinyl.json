@@ -1416,7 +1416,11 @@
 			"artist": "Alabama Shakes",
 			"year": "2015"
 		},
-		{},
+		{
+			"album": "Blurryface",
+			"artist": "Twenty-One Pilots",
+			"year": "2015"
+		},
 		{
 			"album": "Dear God",
 			"artist": "Hamilton Leithauser & Paul Maroon",
