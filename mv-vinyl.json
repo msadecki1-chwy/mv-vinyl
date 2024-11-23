@@ -1526,12 +1526,17 @@
 			"artist": "Khruangbin",
 			"year": "2018"
 		},
-		{},
+		{
+			"album": "My Finest Work Yet",
+			"artist": "Andrew Bird",
+			"year": "2019"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
-			"year": "201"
+			"year": "2019"
 		},
+		{},
 		{
 			"artist": "Willie Watson",
 			"album": "Folksinger Vol. 2",
