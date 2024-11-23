@@ -552,7 +552,11 @@
 			"artist": "Barbara Streisand",
 			"year": "1974"
 		},
-		{},
+		{
+			"album": "Watchout!",
+			"artist": "Wells Fargo",
+			"year": "1974"
+		},
 		{
 			"album": "Blood on the Tracks",
 			"artist": "Bob Dylan",
