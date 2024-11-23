@@ -752,8 +752,11 @@
 			"year": "1978"
 		},
 		{
-			"album": "Fresh Fish Special"
+			"album": "Fresh Fish Special",
+			"artist": "Robert Gordon w/ Link Wray",
+			"year": "1978"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
