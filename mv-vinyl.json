@@ -1816,7 +1816,10 @@
 			"artist": "Noah Kahan",
 			"year": "2023"
 		},
-		{},
+		{
+			"album": "Live at Stubb's",
+			"artist": "Khruangbin"
+		},
 		{
 			"artist": "Charlie Parr",
 			"album": "Little Sun",
