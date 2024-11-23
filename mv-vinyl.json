@@ -872,7 +872,9 @@
 			"artist": "Bob Dylan",
 			"year": "1983"
 		},
-		{},
+		{
+			"album": "Jokerman"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
