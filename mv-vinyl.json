@@ -952,7 +952,10 @@
 			"artist": "Ween",
 			"year": "1992"
 		},
-		{},
+		{
+			"album": "Ready or Not",
+			"artist": "Grateful Dead"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
