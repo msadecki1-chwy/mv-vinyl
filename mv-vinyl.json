@@ -1348,8 +1348,10 @@
 		},
 		{
 			"album": "Acoustic Recordings",
-			"artist": "Jack White"
+			"artist": "Jack White",
+			"year": "2016"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
