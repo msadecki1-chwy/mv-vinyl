@@ -1826,11 +1826,11 @@
 			"artist": "Black Pumas",
 			"year": "2023"
 		},
-		{},
 		{
 			"artist": "Charlie Parr",
 			"album": "Little Sun",
 			"year": "2024"
-		}
+		},
+		{}
 	]
 }
