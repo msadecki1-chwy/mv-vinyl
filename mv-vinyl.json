@@ -1,6 +1,9 @@
 {
 	"record": [
-		{},
+		{
+			"album": "Leadbelly",
+			"artist": "Huddie Ledbetter"
+		},
 		{
 			"album": "Blossom Dearie",
 			"artist": "Blossom Dearie",
