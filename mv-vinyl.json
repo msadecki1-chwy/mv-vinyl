@@ -981,7 +981,10 @@
 			"artist": "Lou Reed",
 			"year": "1996"
 		},
-		{},
+		{
+			"album": "Beautiful Freak",
+			"artist": "Eels"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
