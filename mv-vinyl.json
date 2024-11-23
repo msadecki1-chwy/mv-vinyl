@@ -1146,7 +1146,11 @@
 			"artist": "Daft Punk",
 			"year": "2001"
 		},
-		{},
+		{
+			"album": "Black & White Album",
+			"artist": "The Walkmen",
+			"year": "2001"
+		},
 		{
 			"album": "Live at Beachland Tavern March 31, 2002",
 			"artist": "The Black Keys",
