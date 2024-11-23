@@ -1543,14 +1543,14 @@
 		},
 		{},
 		{
-			"artist": "Charlie Parr",
-			"album": "Little Sun",
-			"year": "2024"
-		},
-		{
 			"artist": "Dome & JD",
 			"album": "Not Tight",
 			"year": "2022"
+		},
+		{
+			"artist": "Charlie Parr",
+			"album": "Little Sun",
+			"year": "2024"
 		}
 	]
 }
