@@ -1043,8 +1043,10 @@
 		},
 		{
 			"album": "Unoriginal Artists",
-			"artist": "Boise Cover Band"
+			"artist": "Boise Cover Band",
+			"year": "2003"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
