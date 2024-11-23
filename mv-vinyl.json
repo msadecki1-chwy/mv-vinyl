@@ -1651,7 +1651,11 @@
 			"artist": "Deer Tick",
 			"year": "2020"
 		},
-		{},
+		{
+			"album": "Italian Ice",
+			"artist": "Nicole Atkins",
+			"year": "2020"
+		},
 		{
 			"artist": "Dome & JD",
 			"album": "Not Tight",
