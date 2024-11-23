@@ -407,7 +407,11 @@
 			"artist": "Traffic",
 			"year": "1971"
 		},
-		{},
+		{
+			"album": "Greatest Hits",
+			"artist": "Herb Alpert & the Tijuana Brass",
+			"year": "1970"
+		},
 		{
 			"album": "The Silver Tongued Devil and I",
 			"artist": "Kris Kristofferson",
