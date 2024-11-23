@@ -1573,13 +1573,15 @@
 		},
 		{
 			"album": "The Center Won't Hold",
-			"artist": "Sleater-Kinney"
+			"artist": "Sleater-Kinney",
+			"year": "2019"
 		},
 		{
 			"album": "Oh My God",
 			"artist": "Kevin Morby",
 			"year": "2019"
 		},
+		{},
 		{
 			"artist": "Dome & JD",
 			"album": "Not Tight",
