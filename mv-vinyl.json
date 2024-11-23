@@ -1036,7 +1036,11 @@
 			"artist": "The Allman Brothers Band",
 			"year": "2003"
 		},
-		{},
+		{
+			"album": "Tour De France Soundtracks",
+			"artist": "Kraftwerk",
+			"year": "2003"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
