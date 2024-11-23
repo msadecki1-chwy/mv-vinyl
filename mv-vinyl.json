@@ -1116,7 +1116,10 @@
 			"artist": "Blitzen Trapper",
 			"year": "2008"
 		},
-		{},
+		{
+			"album": "Evil Urges",
+			"artist": "My Morning Jacket"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
