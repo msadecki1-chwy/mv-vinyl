@@ -762,7 +762,11 @@
 			"artist": "David Bowie",
 			"year": "1976"
 		},
-		{},
+		{
+			"album": "Live at Montreux",
+			"artist": "Sun Ra & His Arkestra",
+			"year": "1976"
+		},
 		{
 			"album": "Free Yourself",
 			"artist": "Experience Unlimited",
