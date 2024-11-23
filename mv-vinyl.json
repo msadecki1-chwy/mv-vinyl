@@ -948,8 +948,11 @@
 			"year": "1989"
 		},
 		{
-			"album": "Ween at the Cat's Cradle"
+			"album": "Ween at the Cat's Cradle",
+			"artist": "Ween",
+			"year": "1992"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
