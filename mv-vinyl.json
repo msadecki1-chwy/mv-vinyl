@@ -1276,7 +1276,9 @@
 			"artist": "Hurray for the Riff Raff",
 			"year": "2014"
 		},
-		{},
+		{
+			"album": "Diamond Rugs"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
