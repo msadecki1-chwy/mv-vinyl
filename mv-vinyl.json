@@ -1018,8 +1018,10 @@
 		},
 		{
 			"album": "White Blood Cells",
-			"artist": "The White Stripes"
+			"artist": "The White Stripes",
+			"year": "2001"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
