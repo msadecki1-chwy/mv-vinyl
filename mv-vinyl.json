@@ -877,7 +877,10 @@
 			"artist": "Bob Dylan",
 			"year": "1983"
 		},
-		{},
+		{
+			"album": "Everybody's Rockin",
+			"artist": "Neil Young and the Shocking Pinks"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
