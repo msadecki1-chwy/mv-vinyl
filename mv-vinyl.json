@@ -1428,8 +1428,10 @@
 		},
 		{
 			"album": "Lost at Last Vol. 1",
-			"artist": "Langhorne Slim"
+			"artist": "Langhorne Slim",
+			"year": "2017"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
