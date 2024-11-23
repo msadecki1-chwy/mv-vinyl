@@ -983,8 +983,10 @@
 		},
 		{
 			"album": "Beautiful Freak",
-			"artist": "Eels"
+			"artist": "Eels",
+			"year": "1996"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
