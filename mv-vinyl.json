@@ -1278,8 +1278,10 @@
 		},
 		{
 			"album": "Cosmetics",
-			"artist": "Diamond Rugs"
+			"artist": "Diamond Rugs",
+			"year": "2015"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
