@@ -332,7 +332,11 @@
 			"artist": "Parliament",
 			"year": "1970"
 		},
-		{},
+		{
+			"album": "The Best of Mose Allison",
+			"artist": "Mose Allison",
+			"year": "1970"
+		},
 		{
 			"album": "After the Gold Rush",
 			"artist": "Neil Young",
