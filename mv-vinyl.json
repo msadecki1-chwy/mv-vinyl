@@ -768,8 +768,10 @@
 		},
 		{
 			"album": "Corea/Hancock",
-			"artist": "Chick Corea Herbie Hancock"
+			"artist": "Chick Corea, Herbie Hancock",
+			"year": "1978"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
