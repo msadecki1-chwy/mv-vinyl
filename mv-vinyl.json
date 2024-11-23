@@ -1258,8 +1258,10 @@
 		},
 		{
 			"album": "Bob Dylan in the 80's",
-			"artist": "Various Artists"
+			"artist": "Various Artists",
+			"year": "2014"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
