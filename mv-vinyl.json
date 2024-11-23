@@ -751,7 +751,9 @@
 			"artist": "Neil Young",
 			"year": "1978"
 		},
-		{},
+		{
+			"album": "Fresh Fish Special"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
