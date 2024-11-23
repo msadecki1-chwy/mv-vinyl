@@ -168,7 +168,11 @@
 			"artist": "Sonny & Cher",
 			"year": "1967"
 		},
-		{},
+		{
+			"album": "The Best of the Lovin' Spoonful",
+			"artist": "Lovin' Spoonful",
+			"year": "1967"
+		},
 		{
 			"album": "Left My Blues In San Francisco",
 			"artist": "Buddy Guy",
