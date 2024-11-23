@@ -998,8 +998,10 @@
 		},
 		{
 			"album": "In The Aeroplane over the Sea",
-			"artist": "Neutral Milk Hotel"
+			"artist": "Neutral Milk Hotel",
+			"year": "1997"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
