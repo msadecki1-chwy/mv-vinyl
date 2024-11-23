@@ -1041,7 +1041,10 @@
 			"artist": "Kraftwerk",
 			"year": "2003"
 		},
-		{},
+		{
+			"album": "Unoriginal Artists",
+			"artist": "Boise Cover Band"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
