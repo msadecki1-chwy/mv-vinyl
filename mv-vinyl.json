@@ -1346,11 +1346,14 @@
 			"artist": "Kevin Morby",
 			"year": "2016"
 		},
-		{},
+		{
+			"album": "Acoustic Recordings",
+			"artist": "Jack White"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
-			"year": "2019"
+			"year": "201"
 		},
 		{
 			"artist": "Willie Watson",
