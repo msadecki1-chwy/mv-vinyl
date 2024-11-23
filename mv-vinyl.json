@@ -1688,8 +1688,10 @@
 		},
 		{
 			"album": "Strawberry Mansion",
-			"artist": "Langhorne Slim"
+			"artist": "Langhorne Slim",
+			"year": "2021"
 		},
+		{},
 		{
 			"artist": "Dome & JD",
 			"album": "Not Tight",
