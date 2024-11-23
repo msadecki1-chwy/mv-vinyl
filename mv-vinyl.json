@@ -1481,7 +1481,10 @@
 			"artist": "Father John Misty",
 			"year": "2018"
 		},
-		{},
+		{
+			"album": "The Nude Party",
+			"artist": "The Nude Party"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
