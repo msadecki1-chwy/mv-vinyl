@@ -879,8 +879,10 @@
 		},
 		{
 			"album": "Everybody's Rockin",
-			"artist": "Neil Young and the Shocking Pinks"
+			"artist": "Neil Young and the Shocking Pinks",
+			"year": "1983"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
