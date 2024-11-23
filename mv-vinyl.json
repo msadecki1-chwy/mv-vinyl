@@ -1216,7 +1216,10 @@
 			"artist": "Deer Tick",
 			"year": "2013"
 		},
-		{},
+		{
+			"album": "Good Evil Alchemy",
+			"artist": "The Brooklyn Attractors"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
