@@ -1566,7 +1566,10 @@
 			"artist": "Various Artists",
 			"year": "1994"
 		},
-		{},
+		{
+			"album": "Miss Universe",
+			"artist": "Nilu"
+		},
 		{
 			"artist": "Dome & JD",
 			"album": "Not Tight",
