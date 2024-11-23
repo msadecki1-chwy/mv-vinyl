@@ -1331,7 +1331,10 @@
 			"artist": "Father John Misty",
 			"year": "2015"
 		},
-		{},
+		{
+			"album": "Dancing with Bad Grammar",
+			"artist": "L.A. Salami"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
