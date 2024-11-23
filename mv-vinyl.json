@@ -1488,7 +1488,11 @@
 		},
 		{
 			"album": "A Change is Gonna Come (Live at Newport Folk Fest)",
-			"artist": "Various Artists"
+			"artist": "Various Artists",
+			"year": "2018"
+		},
+		{
+			"album": "Window Flowers"
 		},
 		{
 			"artist": "Kjellvandertonbruket",
