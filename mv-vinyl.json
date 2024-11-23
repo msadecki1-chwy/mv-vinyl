@@ -1066,7 +1066,9 @@
 			"artist": "Frank Black",
 			"year": "2006"
 		},
-		{},
+		{
+			"album": "Return to Cookie Mountain"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
