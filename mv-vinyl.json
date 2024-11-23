@@ -892,7 +892,11 @@
 			"artist": "The Cars",
 			"year": "1984"
 		},
-		{},
+		{
+			"album": "1984",
+			"artist": "Van Halen",
+			"year": "1984"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
