@@ -1333,8 +1333,10 @@
 		},
 		{
 			"album": "Dancing with Bad Grammar",
-			"artist": "L.A. Salami"
+			"artist": "L.A. Salami",
+			"year": "2016"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
