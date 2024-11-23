@@ -874,8 +874,10 @@
 		},
 		{
 			"album": "Jokerman (Single)",
-			"artist": "Bob Dylan"
+			"artist": "Bob Dylan",
+			"year": "1983"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
