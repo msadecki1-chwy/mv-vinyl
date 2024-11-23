@@ -741,7 +741,10 @@
 			"artist": "Gordon Lightfoot",
 			"year": "1976"
 		},
-		{},
+		{
+			"album": "Excitable Boy",
+			"artist": "Warren Zevon"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
