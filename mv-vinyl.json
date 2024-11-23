@@ -743,8 +743,10 @@
 		},
 		{
 			"album": "Excitable Boy",
-			"artist": "Warren Zevon"
+			"artist": "Warren Zevon",
+			"year": "1978"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
