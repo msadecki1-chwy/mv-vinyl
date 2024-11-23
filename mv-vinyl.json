@@ -807,7 +807,10 @@
 			"artist": "Daryl Hall, John Oates",
 			"year": "1980"
 		},
-		{},
+		{
+			"album": "Mr. Hands",
+			"artist": "Herbie Hancock"
+		},
 		{
 			"album": "The River",
 			"artist": "Bruce Springsteen",
