@@ -1101,7 +1101,11 @@
 			"artist": "Vetiver",
 			"year": "2008"
 		},
-		{},
+		{
+			"album": "War Elephant",
+			"artist": "Deer Tick",
+			"year": "2008Devotion"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
