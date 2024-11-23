@@ -1048,8 +1048,10 @@
 		},
 		{
 			"album": "Bows + Arrows",
-			"artist": "The Walkmen"
+			"artist": "The Walkmen",
+			"year": "2004"
 		},
+		{},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
