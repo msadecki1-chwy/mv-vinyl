@@ -1156,7 +1156,9 @@
 			"artist": "Bon Iver",
 			"year": "2011"
 		},
-		{},
+		{
+			"album": "Mount Wittenberg Orca"
+		},
 		{
 			"artist": "Kjellvandertonbruket",
 			"album": "Doom Country",
